@@ -9,7 +9,11 @@ import android.view.animation.AnimationUtils
 import android.widget.FrameLayout
 import android.widget.ImageView
 
-
+/**
+ *
+ * this is app MainActivity
+ *
+ * **/
 class MainActivity : AppCompatActivity() {
 
     private var handlerAnimation = Handler()
